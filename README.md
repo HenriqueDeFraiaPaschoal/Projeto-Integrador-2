@@ -1,4 +1,4 @@
-# P.I.
+# P.I. :technologist:
 Este é o readme do **Segundo projeto integrador** desenvolvido para conclusão do segundo semestre do **curso de Desenvolvimento de Software Multiplataforma**([DSM](https://site.fatecfranca.edu.br/cursos/dsm)) da [Fatec](https://site.fatecfranca.edu.br/).
 Este projeto possui tema livre para os alunos seguindo os seguintes **requisitos**:
 - **3 Funcionalidades**(requisitos)
@@ -17,7 +17,7 @@ O projeto será desenvolvido por um grupo de **4 a 5 integrantes** os quais deve
 <details>
 <summary>
 
-## Squad
+## Squad :people_holding_hands:
 </summary>
 
 A squad foi formada pelos seguintes integrantes:
@@ -61,7 +61,7 @@ A squad foi formada pelos seguintes integrantes:
 
   Quer saber mais sobre mim? Aqui estão alguns links interessantes::card_file_box:
 
-  [GitHub](https://github.com/HenriqueDeFraiaPaschoal "GitHub Henrique Paschoal") :octocat:
+  [GitHub :octocat:](https://github.com/HenriqueDeFraiaPaschoal "GitHub Henrique Paschoal")
 
   [Linkedin](https://br.linkedin.com/in/henrique-de-fraia-paschoal-113b4111a "Linkedin Henrique Paschoal")
 
@@ -77,11 +77,15 @@ _Escreva um pouco sobre você_
 
   [GitHub](https://github.com/RafaelVSs) :octocat:
 
-  [Linkedin](link)
+  [Linkedin](https://br.linkedin.com/in/rafael-ver%C3%ADssimo-da-silva-94a674227)
 </details>
 </details>
 
-## Tecnologias
+<details>
+<summary>
+
+## Tecnologias 
+</summary>
 Utilizando as seguintes tecnologias:
 - :floppy_disk: Git (Versionamento local)
 - :octocat: GitHub (Hospedagem do versionamento)
@@ -89,8 +93,24 @@ Utilizando as seguintes tecnologias:
 - :card_index_dividers: Trello (Ferramenta Digital Kanban)
 - :art: Figma (Ferramenta de Design Gráfico)
 - :telephone_receiver: WhatsApp/Discord (Ferramentas de comunicação)
+</details>
 
-## Como executar este projeto
+<details>
+<summary>
+
+## Tema :dragon: :mage:
+</summary>
+
+O tema decidido para o grupo foi RPG(Role Playing Game) de mesa com [League of Legends](https://www.leagueoflegends.com/pt-br/).
+Mas o que é uma mesa de [RPG](https://pt.wikipedia.org/wiki/Role-playing_game)?
+Uma mesa de RPG se desenvolve em volta da narrativa de uma história em um mundo fictício onde vários jogadores criam suas personas e a história é guiada por um mestre da mesa.
+</details>
+
+<details>
+<summary>
+
+## Como executar este projeto :checkered_flag:
+</summary>
 Para executar este projeto os seguintes passos devem ser seguidos:
 
   ~~~
@@ -108,8 +128,13 @@ Para executar este projeto os seguintes passos devem ser seguidos:
   ~~~
   npm run start
   ~~~
+</details>
 
-## Padrões
+<details>
+<summary>
+
+## Padrões :octocat:
+</summary>
 Aqui será documentado os padrões à serem seguidos para minimizar falhas de comunicação ou confusão por situações em que, a diferença de padrões/costumes entre os integrantes, possa causar inconveniências.
 
 ### Git e GitHub
@@ -128,6 +153,8 @@ Onde os tipos para o escopo deste projeto:
 - **DOCS**: Ajuste ou adição de documentos que não fazem parte do programa mas detalham/explicam o projeto
 - **REFACTOR**: Caso seja iniciado a refatoração de algum recurso, apenas utilizado após termino do p.i. 
 
+Os tipos, resumo e descrição, **DEVEM** ser feitas em inglês :us:, mantendo um padrão internacional
+
 Dito isto:
   ~~~
   git pull
@@ -141,12 +168,15 @@ Dito isto:
   ~~~
   git commit -m "<tipo>[resumo]: descrição"
   ~~~
+</details>
 
-## Aplicação
+<details>
+<summary>
 
+## Cronograma :hourglass:
+</summary>
 
-## Etapas :checkered_flag:
-### :heavy_check_mark: Etapas Gerênciais
+### Etapas Gerênciais
 - [X] Definir integrantes
 - [X] Criação grupo whats
 - [X] Criação grupo discord
@@ -176,6 +206,7 @@ Entrega Final
 - [ ] PITCHs finais (3-4min)(um com código, um com funcionalidades)
 - [ ] Hospedagem no github
 - [ ] Hospedagem no behance
+</details>
 
 ## Links Úteis :link:
 
@@ -189,3 +220,6 @@ Entrega Final
 :hourglass:
 :heavy_check_mark:
 :white_check_mark:
+:mage_man:
+:merman:
+:vampire_man:
