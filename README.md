@@ -1,5 +1,5 @@
 # P.I. :technologist:
-Este é o readme do **Segundo projeto integrador** desenvolvido para conclusão do segundo semestre do **curso de Desenvolvimento de Software Multiplataforma**([DSM](https://site.fatecfranca.edu.br/cursos/dsm)) da [Fatec](https://site.fatecfranca.edu.br/).
+Este é o readme do **Segundo projeto integrador** desenvolvido para conclusão do segundo semestre do **curso de Desenvolvimento de Software Multiplataforma**([DSM](https://site.fatecfranca.edu.br/cursos/dsm)) da [Fatec](https://site.fatecfranca.edu.br/).  
 Este projeto possui tema livre para os alunos seguindo os seguintes **requisitos**:
 - **3 Funcionalidades**(requisitos)
 - **Front-End** (Pagina WEB)
@@ -25,7 +25,7 @@ A squad foi formada pelos seguintes integrantes:
 <details>
 <summary><strong>Adriano Gomes P.O.</strong></summary>
 
-  Cursando superior em Desenvolvimento de Software multiplataforma. Sou formado em Gestão da Produção Industrial e com curso complementar em Gestão Empresarial.
+  Cursando superior em Desenvolvimento de Software multiplataforma. Sou formado em Gestão da Produção Industrial e com curso complementar em Gestão Empresarial.  
   Possuo experiência nas áreas administrativa, contas a pagar, cartões e atendimento ao cliente.
   Focado, comprometido e com facilidade de aprendizado. Atualmente viso adquirir conhecimentos para ingressar no mercado da programação.
 
@@ -86,6 +86,7 @@ _Escreva um pouco sobre você_
 
 ## Tecnologias 
 </summary>
+
 Utilizando as seguintes tecnologias:
 - :floppy_disk: Git (Versionamento local)
 - :octocat: GitHub (Hospedagem do versionamento)
@@ -101,8 +102,8 @@ Utilizando as seguintes tecnologias:
 ## Tema :dragon: :mage:
 </summary>
 
-O tema decidido para o grupo foi RPG(Role Playing Game) de mesa com [League of Legends](https://www.leagueoflegends.com/pt-br/).
-Mas o que é uma mesa de [RPG](https://pt.wikipedia.org/wiki/Role-playing_game)?
+O tema decidido para o grupo foi RPG(Role Playing Game) de mesa com [League of Legends](https://www.leagueoflegends.com/pt-br/).  
+Mas o que é uma mesa de [RPG](https://pt.wikipedia.org/wiki/Role-playing_game)?  
 Uma mesa de RPG se desenvolve em volta da narrativa de uma história em um mundo fictício onde vários jogadores criam suas personas e a história é guiada por um mestre da mesa.
 </details>
 
@@ -138,7 +139,7 @@ Para executar este projeto os seguintes passos devem ser seguidos:
 Aqui será documentado os padrões à serem seguidos para minimizar falhas de comunicação ou confusão por situações em que, a diferença de padrões/costumes entre os integrantes, possa causar inconveniências.
 
 ### Git e GitHub
-Como de manhã temos bom dia, à tarde temos boa tarde e a noite temos boa noite.
+Como de manhã temos bom dia, à tarde temos boa tarde e a noite temos boa noite.  
 Antes de iniciar o trabalho temos **git pull**, durante o trabalho temos **git status**, **git add** e **git commit**, e no final do trabalho **git push**
 
 Apesar de alguns comandos seguirem estruturas simplistas, o comando de commit deverá seguir o seguinte padrão:
@@ -173,6 +174,24 @@ Dito isto:
 <details>
 <summary>
 
+## Histórias de usuário e requisitos
+</summary>
+
+### Histórias
+Como um **[papel]** eu quero **[função/ação]** para que **[objetivo/benefício]**  
+Dado **[condição x]**, quando **[acontecer evento]**, espero **[resultado]**
+
+Como um **jogador** eu quero poder **criar várias fichas de personagens** para que eu possa t**er mais de um personagem**
+
+Como um **mestre de mesa** eu quero que **o jogador possa encontrar rapidamente a ficha de seu personagem** para que a **imersão na história não seja quebrada**
+
+
+
+</details>
+
+<details>
+<summary>
+
 ## Cronograma :hourglass:
 </summary>
 
@@ -180,14 +199,14 @@ Dito isto:
 - [X] Definir integrantes
 - [X] Criação grupo whats
 - [X] Criação grupo discord
-- [ ] Criação grupo Trello
+- [X] Criação grupo Trello
 - [X] Definir problema/solução
 - [X] Definir cargos
 - [ ] Criar repositório remoto
 
 ## Etapas de produção 
 Semana 1 05-11/03/2023 :heavy_check_mark:
-- [ ] Produção do PITCH (3-4min)
+- [X] Produção do PITCH (3-4min)
 - [X] Alinhamento de tecnologias
 - [ ] Reunião de alinhamento de produção
 
