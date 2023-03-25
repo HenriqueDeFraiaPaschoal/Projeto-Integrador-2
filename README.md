@@ -73,13 +73,19 @@ A squad foi formada pelos seguintes integrantes:
 <details>
 <summary><strong>Samuel P.O.</strong></summary>
 
-_Escreva um pouco sobre você_
+  Cursando DSM na Fatec-Franca.
+
+  Trabalhou como AOE estadual na escola Torquato Caleiro e como Recenseador em 2022 para o governo Federal.
+
+  Jogador e criador de jogos de mesa no qual um deles inspirou este projeto.
   
   Quer saber mais sobre mim? Aqui estão alguns links interessantes:
 
-  [GitHub](https://github.com/RafaelVSs) :octocat:
+  [GitHub :octocat:](https://github.com/AelMartins "GitHub Samuel Martins")
 
-  [Linkedin](https://br.linkedin.com/in/rafael-ver%C3%ADssimo-da-silva-94a674227)
+  [Linkedin](https://www.linkedin.com/in/samuel-martins-a84435251/ "Linkedin Samuel Martins")
+
+  [Instagram](https://www.instagram.com/ael_martins "Instagram Samuel Martins")
 </details>
 
 <details>
