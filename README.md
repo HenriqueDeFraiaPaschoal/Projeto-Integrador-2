@@ -1,3 +1,15 @@
+1- Introdução
+a) contextualização (problema 3 paragrafos)
+b) Colocar objetivo do site (solução 1 paragrafo)
+c) Importância do site (contribuição se houver)
+
+2- Canvas
+3 - Requisitos(história de usuário e funcionalidades)
+
+NOVO PITCH
+
+https://www.figma.com/file/RSSsobvbnERfdVACjn4goR/Untitled?node-id=2-3&t=UOolWcpRBB6cYYlF-0
+
 # P.I. :technologist:
 Este é o readme do **Segundo projeto integrador** desenvolvido para conclusão do segundo semestre do **curso de Desenvolvimento de Software Multiplataforma**([DSM](https://site.fatecfranca.edu.br/cursos/dsm)) da [Fatec](https://site.fatecfranca.edu.br/).  
 Este projeto possui tema livre para os alunos seguindo os seguintes **requisitos**:
@@ -6,6 +18,8 @@ Este projeto possui tema livre para os alunos seguindo os seguintes **requisitos
 - **Back-end** (*API própria)
 - **B.D.**
 - ***API** (API de terceiros)
+
+victorufsantos@gmail.com
 
 **Application Programming Interface*
 
@@ -17,13 +31,13 @@ O projeto será desenvolvido por um grupo de **4 a 5 integrantes** os quais deve
 <details>
 <summary>
 
-## Squad :people_holding_hands:
+## Squad Grupo 8 :people_holding_hands:
 </summary>
 
 A squad foi formada pelos seguintes integrantes:
 
 <details>
-<summary><strong>Adriano Gomes P.O.</strong></summary>
+<summary><strong>Adriano Gomes Dev.</strong></summary>
 
   Cursando superior em Desenvolvimento de Software multiplataforma. Sou formado em Gestão da Produção Industrial e com curso complementar em Gestão Empresarial.  
   Possuo experiência nas áreas administrativa, contas a pagar, cartões e atendimento ao cliente.
@@ -35,18 +49,6 @@ A squad foi formada pelos seguintes integrantes:
   [GitHub](https://github.com/AdrianoGSales) :octocat:
 
   [Linkedin](https://www.linkedin.com/in/adriano-gomes-94756a169/)  
-</details>
-
-<details>
-<summary><strong>Eliane Gomes Dev.</strong></summary>
-
-  Cursando superior em Desenvolvimento de Software Multiplataforma, com formação em Técnico em Administração e tecnólogo em Gestão de Recursos Humanos. Possuo experiência na área administrativa, saúde, segurança ocupacional e atendimento ao cliente. Gosto de me engajar em projetos, tocar violão, compor músicas, viajar. Organizada, responsável, com bom relacionamento interpessoal, pontual, com facilidade de adaptação e aprendizado, visando melhorar e desenvolver meus conhecimentos e competências na área de TI, impactando positivamente a vida das pessoas.
-
-  Quer saber mais sobre mim? Aqui estão alguns links interessantes:
-
-  [GitHub](https://github.com/gomeseliane) :octocat:
-
-  [Linkedin](https://www.linkedin.com/in/eliane-gomes-de-sales-071a05198/)  
 </details>
 
 <details>
@@ -69,7 +71,19 @@ A squad foi formada pelos seguintes integrantes:
 </details>
 
 <details>
-<summary><strong>Rafael Veríssimo Dev.</strong></summary>
+<summary><strong>Samuel P.O.</strong></summary>
+
+_Escreva um pouco sobre você_
+  
+  Quer saber mais sobre mim? Aqui estão alguns links interessantes:
+
+  [GitHub](https://github.com/RafaelVSs) :octocat:
+
+  [Linkedin](https://br.linkedin.com/in/rafael-ver%C3%ADssimo-da-silva-94a674227)
+</details>
+
+<details>
+<summary><strong>Victor Dev.</strong></summary>
 
 _Escreva um pouco sobre você_
   
@@ -99,12 +113,17 @@ Utilizando as seguintes tecnologias:
 <details>
 <summary>
 
-## Tema :dragon: :mage:
+## Tema :feet:
 </summary>
 
-O tema decidido para o grupo foi RPG(Role Playing Game) de mesa com [League of Legends](https://www.leagueoflegends.com/pt-br/).  
+O tema decidido para o grupo foi RPG(Role Playing Game) de mesa com [Pokemon]().  
 Mas o que é uma mesa de [RPG](https://pt.wikipedia.org/wiki/Role-playing_game)?  
 Uma mesa de RPG se desenvolve em volta da narrativa de uma história em um mundo fictício onde vários jogadores criam suas personas e a história é guiada por um mestre da mesa.
+
+Porém em muitas mesas de RPG a falta de conhecimento e o tempo de busca de dados do jogador podem atrapalhar na irmersão dos jogadores na história, e muitas vezes, até atrapalhar a narrativa do mestre da mesa.  
+Algo que também pode atrapalhar a história, são a falta de dados para a decisão de acontecimentos. Os dados em um RPG de mesa podem variar seus lados, sendo um dado de 6 lados denominado de D6. Os mais usuais são: D4, D6, D8, D10, D12, D20, D100.
+
+Como uma solução para esse problema, decidimos criar um site que possui as principais funções que podem facilitar o desenvolvimento da história. Fichas de personagens digitais, um sorteador de valores conforme a chance do dado específicado e 
 </details>
 
 <details>
@@ -181,9 +200,10 @@ Dito isto:
 Como um **[papel]** eu quero **[função/ação]** para que **[objetivo/benefício]**  
 Dado **[condição x]**, quando **[acontecer evento]**, espero **[resultado]**
 
-Como um **jogador** eu quero poder **criar várias fichas de personagens** para que eu possa t**er mais de um personagem**
+Como um **jogador** eu quero poder **criar várias fichas de pokemon** para que eu possa **jogar com mais de um pokemon**
 
-Como um **mestre de mesa** eu quero que **o jogador possa encontrar rapidamente a ficha de seu personagem** para que a **imersão na história não seja quebrada**
+Como um **mestre de mesa** eu quero que o **jogador possa encontrar rapidamente a ficha de seu pokemon** para que a **imersão na história não seja quebrada**
+
 
 
 
