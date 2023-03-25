@@ -40,7 +40,7 @@ A squad foi formada pelos seguintes integrantes:
 <summary><strong>Adriano Gomes Dev.</strong></summary>
 
   Cursando superior em Desenvolvimento de Software multiplataforma. Sou formado em Gestão da Produção Industrial e com curso complementar em Gestão Empresarial.  
-  Possuo experiência nas áreas administrativa, contas a pagar, cartões e atendimento ao cliente.
+  Possuo experiência nas áreas administrativa, gestão de e-commerce, contas a pagar, cartões e atendimento ao cliente.
   Focado, comprometido e com facilidade de aprendizado. Atualmente viso adquirir conhecimentos para ingressar no mercado da programação.
 
 
