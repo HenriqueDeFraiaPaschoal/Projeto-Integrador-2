@@ -91,13 +91,17 @@ A squad foi formada pelos seguintes integrantes:
 <details>
 <summary><strong>Victor Dev.</strong></summary>
 
-_Escreva um pouco sobre você_
+  Atualmente estudo na FATEC-FRANCA, Tenho 19 anos, não atuo na área e tenho pouco experiência.
+  
+  Meu maior conhecimento está no FROND END, tenho cursos Online alguns curso Online de Design.
+  
+  Tenho conhecimento básico em Inglês e espanhol. 
   
   Quer saber mais sobre mim? Aqui estão alguns links interessantes:
 
-  [GitHub](https://github.com/RafaelVSs) :octocat:
+  [GitHub](https://github.com/VictorFelisberto) :octocat:
 
-  [Linkedin](https://br.linkedin.com/in/rafael-ver%C3%ADssimo-da-silva-94a674227)
+  [Linkedin](https://www.linkedin.com/in/victor-hugo-felisberto-santos-37895524b/)
 </details>
 </details>
 
