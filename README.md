@@ -87,6 +87,22 @@ A squad foi formada pelos seguintes integrantes:
 </details>
 
 <details>
+<summary><strong>Denys Dev</strong></summary>
+
+  Atualmente cursando o 2º Semestre de Desenvolvimento de Software Multiplataforma na Fatec de Franca. 
+
+  Participei de um programa de bolsas oferecido pela Compass.Uol, onde tive a oportunidade de aprender e praticar algumas das tecnologias mais atuais no mercado da T.I, como React e AWS.
+  
+  Quer saber mais sobre mim? Aqui estão alguns links interessantes:
+
+  [GitHub :octocat:](https://github.com/denysfmalta "GitHub Denys Malta")
+
+  [Linkedin](https://www.linkedin.com/in/denysfmalta/ "Linkedin Denys Malta")
+
+  [Instagram](https://www.instagram.com/denysfmalta/ "Instagram Denys Malta")
+</details>
+
+<details>
 <summary><strong>Victor Dev.</strong></summary>
 
   Atualmente estudo na FATEC-FRANCA, Tenho 19 anos, não atuo na área e tenho pouco experiência.
