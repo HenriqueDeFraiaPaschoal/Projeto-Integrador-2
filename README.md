@@ -87,7 +87,7 @@ A squad foi formada pelos seguintes integrantes:
 </details>
 
 <details>
-<summary><strong>Denys Dev</strong></summary>
+<summary><strong>Denys Dev.</strong></summary>
 
   Atualmente cursando o 2º Semestre de Desenvolvimento de Software Multiplataforma na Fatec de Franca. 
 
