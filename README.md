@@ -19,8 +19,6 @@ Este projeto possui tema livre para os alunos seguindo os seguintes **requisitos
 - **B.D.**
 - ***API** (API de terceiros)
 
-victorufsantos@gmail.com
-
 **Application Programming Interface*
 
 O projeto será desenvolvido por um grupo de **4 a 5 integrantes** os quais devem possuir um dos seguintes papéis:
