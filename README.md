@@ -1,23 +1,10 @@
-1- Introdução
-a) contextualização (problema 3 paragrafos)
-b) Colocar objetivo do site (solução 1 paragrafo)
-c) Importância do site (contribuição se houver)
-
-2- Canvas
-3 - Requisitos(história de usuário e funcionalidades)
-
-NOVO PITCH
-
-https://www.figma.com/file/RSSsobvbnERfdVACjn4goR/Untitled?node-id=2-3&t=UOolWcpRBB6cYYlF-0
-
 # P.I. :technologist:
 Este é o readme do **Segundo projeto integrador** desenvolvido para conclusão do segundo semestre do **curso de Desenvolvimento de Software Multiplataforma**([DSM](https://site.fatecfranca.edu.br/cursos/dsm)) da [Fatec](https://site.fatecfranca.edu.br/).  
 Este projeto possui tema livre para os alunos seguindo os seguintes **requisitos**:
 - **3 Funcionalidades**(requisitos)
-- **Front-End** (Pagina WEB)
-- **Back-end** (*API própria)
+- **Front-End** (Pagina WEB com uso de um framework)
 - **B.D.**
-- ***API** (API de terceiros)
+- ***API**
 
 **Application Programming Interface*
 
@@ -25,6 +12,13 @@ O projeto será desenvolvido por um grupo de **4 a 5 integrantes** os quais deve
 - **1 Scrum Master** *(S.M.)*
 - **1 Product Owner** *(P.O.)*
 - **N Desenvolvedor** *(Dev.)*
+
+## Objetivos e resultados esperados
+Decidimos criar um site que possui as principais funções que podem facilitar o desenvolvimento de um RPG de Pokemon. Fichas de personagens digitais, um sorteador de valores conforme a chance do dado especificado e busca de informações dos pokemon de maneira rápida e fácil.
+
+O site **pode contribuir com o aumento de público** devido a **facilidade de introdução de novos jogadores** e até mesmo aos criadores da documentação.Facilitar a mestragem das mesas pelos jogadores que conseguem se sentir mais confiantes tendo as informações acessíveis na ponta dos dedos.
+
+O site **pode representar um importante papel** para o RPG de mesa de pokemon que, se tornando mais fácil de participar, pode buscar e atrair mais jogadores que não se sentem tão acuados pela falta de conhecimento das regras ou pela falta de dados para participar.
 
 <details>
 <summary>
@@ -140,14 +134,14 @@ Utilizando as seguintes tecnologias:
 ## Tema :feet:
 </summary>
 
-O tema decidido para o grupo foi RPG(Role Playing Game) de mesa com [Pokemon]().  
+O tema decidido para o grupo foi RPG(Role Playing Game) de mesa com [Pokemon](https://pt.wikipedia.org/wiki/Pok%C3%A9mon).  
 Mas o que é uma mesa de [RPG](https://pt.wikipedia.org/wiki/Role-playing_game)?  
 Uma mesa de RPG se desenvolve em volta da narrativa de uma história em um mundo fictício onde vários jogadores criam suas personas e a história é guiada por um mestre da mesa.
 
 Porém em muitas mesas de RPG a falta de conhecimento e o tempo de busca de dados do jogador podem atrapalhar na irmersão dos jogadores na história, e muitas vezes, até atrapalhar a narrativa do mestre da mesa.  
 Algo que também pode atrapalhar a história, são a falta de dados para a decisão de acontecimentos. Os dados em um RPG de mesa podem variar seus lados, sendo um dado de 6 lados denominado de D6. Os mais usuais são: D4, D6, D8, D10, D12, D20, D100.
 
-Como uma solução para esse problema, decidimos criar um site que possui as principais funções que podem facilitar o desenvolvimento da história. Fichas de personagens digitais, um sorteador de valores conforme a chance do dado específicado e 
+Como uma solução para esse problema, decidimos criar um site que possui as principais funções que podem facilitar o desenvolvimento da história. Fichas de personagens digitais, um sorteador de valores conforme a chance do dado específicado junto à uma separação de fichas por jogador!
 </details>
 
 <details>
@@ -224,12 +218,19 @@ Dito isto:
 Como um **[papel]** eu quero **[função/ação]** para que **[objetivo/benefício]**  
 Dado **[condição x]**, quando **[acontecer evento]**, espero **[resultado]**
 
-Como um **jogador** eu quero poder **criar várias fichas de pokemon** para que eu possa **jogar com mais de um pokemon**
+**HU 01** - Como um **jogador** eu quero poder **criar várias fichas de pokemon** para que eu possa **jogar com mais de um pokemon**
 
-Como um **mestre de mesa** eu quero que o **jogador possa encontrar rapidamente a ficha de seu pokemon** para que a **imersão na história não seja quebrada**
+**HU 02** - Como **jogador** eu quero poder **encontrar facilmente as descrições do meu pokemon** para que eu possa **decidir minhas ações na história efetivamente**
 
+**HU 03** - Como **jogador** eu quero **ter as fichas dos meus pokemons separadas dos outros jogadores** para **evitar confusões desnecessárias**
 
+**HU 04** - Como **jogador** eu preciso **atualizar minhas fichas rapidamente e visualmente** para que **meu pokemon esteja atualizado para o decorrer das ações**
 
+**HU 05** - Como um **novato** nessa atividade eu quero poder **entender melhor como as pontuações e características são calculadas** para que eu possa **melhor atribuir pontuação do meu pokemon**
+
+**HU 06** - Como **jogador** eu preciso **ter acesso rápido às características e dados das habilidades dos meus pokemon** para que eu **possa ter uma ação rápida e efetiva nas batalhas**
+
+**HU 07** - Como um **mestre de mesa** eu quero que o **jogador possa encontrar rapidamente a ficha de seu pokemon** para que a **imersão na história não seja quebrada**
 
 </details>
 
@@ -246,43 +247,37 @@ Como um **mestre de mesa** eu quero que o **jogador possa encontrar rapidamente 
 - [X] Criação grupo Trello
 - [X] Definir problema/solução
 - [X] Definir cargos
-- [ ] Criar repositório remoto
+- [X] Criar repositório remoto
 
 ## Etapas de produção 
 Semana 1 05-11/03/2023 :heavy_check_mark:
 - [X] Produção do PITCH (3-4min)
 - [X] Alinhamento de tecnologias
-- [ ] Reunião de alinhamento de produção
+- [X] Reunião de alinhamento de produção
 
 Semana 2 12-18/03/2023 :white_check_mark:
 
-- [ ] Criação das tasks trello
-- [ ] Verificar requisitos com professores
+- [X] Criação das tasks trello
+- [X] Verificar requisitos com professores
+- [X] [CANVAS](./canvas.pdf)
 
 - [ ] Desenvolvimento front-end
 - [ ] Desenvolvimento back-end
 - [ ] Desenvolvimento B.D.
 
-- [ ] 
-
 Entrega Final
 - [ ] PITCHs finais (3-4min)(um com código, um com funcionalidades)
 - [ ] Hospedagem no github
-- [ ] Hospedagem no behance
+- [ ] Portifólio no behance
+- [ ] Vídeo no Youtube
 </details>
 
 ## Links Úteis :link:
-
-
-:brazil:
-:us:
-:copyright:
-:plunger:
-:unlock:
-:lock:
-:hourglass:
-:heavy_check_mark:
-:white_check_mark:
-:mage_man:
-:merman:
-:vampire_man:
+[PokeAPI](https://pokeapi.co/)  
+[React](https://react.dev/)  
+[Styled Components](https://styled-components.com/)  
+[React Router](https://reactrouter.com/en/main)  
+[FireBase](https://firebase.google.com/?hl=pt)
+[DSM](https://site.fatecfranca.edu.br/cursos/dsm)
+[FigmaProject](https://www.figma.com/file/RSSsobvbnERfdVACjn4goR/Untitled?node-id=2-3&t=UOolWcpRBB6cYYlF-0)  
+[CANVAS](./canvas.pdf)
