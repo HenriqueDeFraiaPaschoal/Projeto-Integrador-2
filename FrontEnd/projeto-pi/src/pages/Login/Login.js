@@ -5,7 +5,7 @@ class Login extends React.Component {
   render() {
     return (
       <div>
-        <PokeIn mainBtnText='Login' redirectBtnText='CADASTRAR-SE' />
+        <PokeIn mainBtnText='LOGIN' redirectBtnText='CADASTRAR-SE' />
       </div>
       
     )
