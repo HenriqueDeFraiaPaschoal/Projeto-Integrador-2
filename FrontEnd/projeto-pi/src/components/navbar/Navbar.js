@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { getData, setData } from "../../utils/firebaseapi";
 import logo from "../../global-style/logo.svg"
+import "./Navbar.css"
 
 const Navbar = () => {
   const logoImg = logo;
@@ -37,17 +38,23 @@ const Navbar = () => {
           <img alt="my-pokemon-logo" src={logoImg} />
           <h1>MY POKEMON</h1>
         </div>
-        <button onClick={onGetHandler}>SEUS POKEMONS</button>
-        <button>SALVAR ESTA FICHA</button>
-        <div>
-          <input placeholder="Login" onChange={onChangeLoginHandler} />
-          <p>Henrique</p>
+        <div class="userOptions">
+        <div class="column">
+          <button onClick={onGetHandler}>SEUS POKEMONS</button>
+          <button>SALVAR ESTA FICHA</button>
         </div>
-        <div>
-          <input placeholder="Password" onChange={onChangePasswordHandler} />
-          <p>Logado</p>
+        <div class="column">
+          <div>
+            <input placeholder="Login" onChange={onChangeLoginHandler} />
+            <p>Henrique</p>
+          </div>
+          <div>
+            <input placeholder="Password" onChange={onChangePasswordHandler} />
+            <p>LOGADO</p>
+          </div>
+          <button onClick={onRegisterHandler}>CADASTRAR-SE</button>
         </div>
-        <button onClick={onRegisterHandler}>CADASTRAR-SE</button>
+        </div>
         {fireData}
       </nav>
     </>

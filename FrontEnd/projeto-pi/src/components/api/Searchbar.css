@@ -1,0 +1,6 @@
+.searchbar-container {
+    display: grid;
+    align-items: right;
+    justify-content: right;
+    text-align: center;
+}

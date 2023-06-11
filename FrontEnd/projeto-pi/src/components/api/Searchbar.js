@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { searchPokemon } from "../../utils/pokeapi";
+import "./Searchbar.css"
 
 const Searchbar = () => {
   const logoAPI = "https://raw.githubusercontent.com/PokeAPI/media/master/logo/pokeapi_256.png";
