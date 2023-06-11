@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import { getData, setData } from "../utils/firebaseapi";
-import logo from "../img/logo.svg"
+import { getData, setData } from "../../utils/firebaseapi";
+import logo from "../../global-style/logo.svg"
 
 const Navbar = () => {
   const logoImg = logo;
@@ -33,7 +33,12 @@ const Navbar = () => {
   return (
     <>
       <nav>
-        <img alt="pokeapi-logo" src={logoImg} className="navbar-img" />
+        <div class="logomarca">
+          <img alt="my-pokemon-logo" src={logoImg} />
+          <h1>MY POKEMON</h1>
+        </div>
+        <button onClick={onGetHandler}>SEUS POKEMONS</button>
+        <button>SALVAR ESTA FICHA</button>
         <div>
           <input placeholder="Login" onChange={onChangeLoginHandler} />
           <p>Henrique</p>
@@ -42,9 +47,7 @@ const Navbar = () => {
           <input placeholder="Password" onChange={onChangePasswordHandler} />
           <p>Logado</p>
         </div>
-        <button onClick={onGetHandler}>My pokemon</button>
-        <button>Save pokemon</button>
-        <button onClick={onRegisterHandler}>Register</button>
+        <button onClick={onRegisterHandler}>CADASTRAR-SE</button>
         {fireData}
       </nav>
     </>
