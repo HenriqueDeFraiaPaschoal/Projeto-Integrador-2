@@ -1,0 +1,85 @@
+/* Estrutura do site
+.container {
+    margin: 1%;
+    max-width: 50%;
+} */
+
+/* Ficha do pokemon do player */
+/* .sheetBox {
+    height: fit-content;
+    column-count: 3;
+} */
+/* 
+.pokeData {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: fit-content;
+    padding: 2%;
+}
+.pokeData h1 {
+    font-size: 20px;
+    text-align: left;
+    align-items: center;
+}
+.pokeData p {
+    font-size: 15px;
+    text-align: left;
+    align-items: center;
+}
+
+
+.primarySkills div {
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+    flex-wrap: wrap;
+    height: fit-content;
+    align-items: right;
+    justify-content: right;
+    text-align: center;
+    margin: 5%;
+    padding: 5%;
+}
+
+
+.secondarySkills div {
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+    flex-wrap: wrap;
+    height: fit-content;
+    align-items: right;
+    justify-content: right;
+    text-align: center;
+    margin: 5%;
+    padding: 5%;
+} */
+
+
+/* REGRAS PADRONIZADAS */
+
+/* MARGIN, PADDING, FUNDO E SOMBREAMENTO */
+/* .sheetBox {
+    margin: 3%;
+    padding: 3%;
+
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(0, 0, 0, 0.01);
+    box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(6px);
+    border-radius: 25px;
+}
+
+.pokeData,
+.pokeData h1,
+.pokeData p,
+.primarySkills div,
+.secondarySkills div {
+    margin: 5%;
+
+    background: rgba(255, 255, 255, 0.382);
+    border: 1px solid rgba(0, 0, 0, 0.01);
+    box-shadow: 0px 0px 3px 3px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(6px);
+    border-radius: 15px;
+} */

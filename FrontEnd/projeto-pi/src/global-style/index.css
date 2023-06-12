@@ -20,3 +20,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.bookcase {
+  display: flex;
+  justify-content: space-between;
+  max-width: 99vw;
+  max-height: 99vw;
+}

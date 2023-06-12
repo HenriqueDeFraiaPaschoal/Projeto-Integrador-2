@@ -1,0 +1,18 @@
+.rating-buttons button {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.rating-buttons .selected .circle {
+    background-color: rgb(52, 54, 57);
+    /* cor de fundo para botões selecionados */
+}
+
+.rating-buttons .circle {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #ccc;
+    /* cor de fundo padrão para círculos */
+}

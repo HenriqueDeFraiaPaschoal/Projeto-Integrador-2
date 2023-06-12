@@ -1,17 +1,11 @@
 .searchbar-container {
     margin: 1.5%;
     padding: 1%;
-    width: 50%;
+    max-width: 50%;
 
     display: flex;
     flex-direction: column;
-    justify-content: right;
     text-align: center;
-
-
-    /* REGRA PARA QUE A API NÃO PASSE DO BOTTOM DA TELA */
-    max-height: 65vh;
-    overflow-y: auto;
 }
 /* Estilização da barra de rolagem */
 .searchbar-container::-webkit-scrollbar {
@@ -83,7 +77,25 @@
     box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.25);
     backdrop-filter: blur(6px);
     border-radius: 25px;
+
+    /* REGRA PARA QUE A API NÃO PASSE DO BOTTOM DA TELA */
+    max-height: 60vh;
+    overflow-y: auto;
 }
+/* Estilização da barra de rolagem */
+.api::-webkit-scrollbar {
+    width: 5px; /* Largura da barra de rolagem */
+  }
+  .api::-webkit-scrollbar-track {
+    background: transparent; /* Cor de fundo da área da barra de rolagem */
+  }
+  .api::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.2); /* Cor do indicador da barra de rolagem */
+    border-radius: 3px; /* Raio de borda do indicador */
+  }
+  .api::-webkit-scrollbar-thumb:hover {
+    background: rgba(0, 0, 0, 0.3); /* Cor do indicador da barra de rolagem ao passar o mouse */
+  }
 
 
 .dexNumbers{
