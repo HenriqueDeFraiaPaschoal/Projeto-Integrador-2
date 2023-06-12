@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { getData, setData } from "../../utils/firebaseapi";
-import logo from "../../global-style/logo.svg"
-import "./Navbar.css"
+import logo from "../../global-style/logo.svg";
+import "./Navbar.css";
 
 const Navbar = () => {
   const logoImg = logo;
@@ -18,14 +18,14 @@ const Navbar = () => {
 
   const getFireBase = async () => {
     const firebaseData = await getData();
-    console.log(fireData)
+    console.log(fireData);
     setFireData(firebaseData);
-    console.log(fireData)
+    console.log(fireData);
   };
 
   const onGetHandler = async () => {
     const haa = await getFireBase();
-    console.log(haa)
+    console.log(haa);
   };
 
   const onRegisterHandler = () => {
@@ -39,21 +39,24 @@ const Navbar = () => {
           <h1>MY POKEMON</h1>
         </div>
         <div class="userOptions">
-        <div class="column">
-          <button onClick={onGetHandler}>SEUS POKEMONS</button>
-          <button>SALVAR ESTA FICHA</button>
-        </div>
-        <div class="column">
-          <div>
-            <input placeholder="Login" onChange={onChangeLoginHandler} />
-            <p>Henrique</p>
+          <div class="column">
+            <button onClick={onGetHandler}>SEUS POKEMONS</button>
+            <button>SALVAR ESTA FICHA</button>
           </div>
-          <div>
-            <input placeholder="Password" onChange={onChangePasswordHandler} />
-            <p>LOGADO</p>
+          <div class="column">
+            <div>
+              <input placeholder="Login" onChange={onChangeLoginHandler} />
+              <p>Henrique</p>
+            </div>
+            <div>
+              <input
+                placeholder="Password"
+                onChange={onChangePasswordHandler}
+              />
+              <p>LOGADO</p>
+            </div>
+            <button onClick={onRegisterHandler}>CADASTRAR-SE</button>
           </div>
-          <button onClick={onRegisterHandler}>CADASTRAR-SE</button>
-        </div>
         </div>
         {fireData}
       </nav>
