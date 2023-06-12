@@ -11,7 +11,6 @@ const EXPinput = () => {
   return (
     <div>
       <div class="EXPinput">
-        <label htmlFor="points-input"></label>
         <input
           type="number"
           id="points-input"

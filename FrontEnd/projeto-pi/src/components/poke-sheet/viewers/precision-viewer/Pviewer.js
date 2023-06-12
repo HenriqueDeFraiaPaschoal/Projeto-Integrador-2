@@ -13,7 +13,7 @@ const Pviewer = () => {
 //   };
 
   return (
-    <div>
+    <div class="viewer">
       <h3>{rating}</h3>
     </div>
   );

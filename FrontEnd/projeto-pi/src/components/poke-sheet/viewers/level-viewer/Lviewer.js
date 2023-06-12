@@ -13,7 +13,7 @@ const Lviewer = () => {
 //   };
 
   return (
-    <div>
+    <div class="BigViewer">
       <h3>{rating}</h3>
     </div>
   );

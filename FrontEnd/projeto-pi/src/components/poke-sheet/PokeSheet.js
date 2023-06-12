@@ -15,54 +15,58 @@ import Iviewer from "./viewers/initiative-viewer/Iviewer";
 
 const PokeSheet = () => {
     return (
-      <div className="container">
-            {/* POKEMON DO USUÁRIO */}
             <div className='sheetBox'>
+            {/* POKEMON DO USUÁRIO */}
               <div className='pokeData'>
-                <h1>HP <HPviewer/></h1>
-                <p>INICIATIVA <Iviewer/></p>
-                <p>PRECISÃO <Pviewer/></p>
-                <h1>LEVEL <Lviewer/></h1>
-                <h1>EXP <EXPinput/></h1>
+                <div>
+                  <label><h1>HP</h1><HPviewer/></label>
+                  <label><p>INICIATIVA</p><Iviewer/></label>
+                  <label><p>PRECISÃO</p><Pviewer/></label>
+                </div>
+                <div>
+                  <label><h1>LEVEL</h1><Lviewer/></label>
+                  <label><h1>EXP</h1><EXPinput/></label>
+                </div>
               </div>
-                <div className='primarySkills'>
+              <div class="rowle">
+                <div class='primarySkills'>
                   <div>
                     <h1>FORÇA<PSkills/></h1>
-                    <p>RESISTÊNCIA<Gradual/></p>
+                    <label><p>RESISTÊNCIA</p><Gradual/></label>
                   </div>
                   <div>
                     <h1>DESTREZA<PSkills/></h1>
-                    <p>MANEIRISMO<Gradual/></p>
+                    <label><p>MANEIRISMO</p><Gradual/></label>
                   </div>
                   <div>
                     <h1>VITALIDADE<PSkills/></h1>
-                    <p>BELEZA<Gradual/></p>
+                    <label><p>BELEZA</p><Gradual/></label>
                   </div>
                   <div>
                     <h1>PECULIARIDADE<PSkills/></h1>
-                    <p>FOFURA<Gradual/></p>
+                    <label><p>FOFURA</p><Gradual/></label>
                   </div>
                   <div>
                     <h1>PERCEPÇÃO<PSkills/></h1>
-                    <p>INTELIGÊNCIA<Gradual/></p>
+                    <label><p>INTELIGÊNCIA</p><Gradual/></label>
                   </div>
                 </div>
-                <div className='secondarySkills'>
-                  <div>
+                <div class='secondarySkills'>
+                  <div class="shelf">
                     <h1>COMBATE<SSkills/></h1>
                     <p>LUTA<HabiLevel/></p>
                     <p>CANALIZAR<HabiLevel/></p>
                     <p>EVASÃO<HabiLevel/></p>
                     <p>MARCIAL<HabiLevel/></p>
                   </div>
-                  <div>
+                  <div class="shelf">
                     <h1>SOBREVIVÊNCIA<SSkills/></h1>
                     <p>ALERTA<HabiLevel/></p>
                     <p>ATLETICO<HabiLevel/></p>
                     <p>NATUREZA<HabiLevel/></p>
                     <p>FURTIVIDADE<HabiLevel/></p>
                   </div>
-                  <div>
+                  <div class="shelf">
                     <h1>CONCURSO<SSkills/></h1>
                     <p>FACINANTE<HabiLevel/></p>
                     <p>ETIQUETA<HabiLevel/></p>
@@ -70,8 +74,8 @@ const PokeSheet = () => {
                     <p>PERFORMANCE<HabiLevel/></p>
                   </div>
                 </div>
+              </div>
             </div>
-      </div>
     );
 };
 
